@@ -3,3 +3,6 @@
 # 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seilk">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=seilk" height="150">
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seilk)](https://solved.ac/seilk/)
