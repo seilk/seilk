@@ -1,3 +1,2 @@
 # Seil Kang 
-# 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seilk)](https://solved.ac/seilk/)
